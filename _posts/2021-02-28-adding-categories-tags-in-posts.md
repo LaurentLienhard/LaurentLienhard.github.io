@@ -2,7 +2,7 @@
 layout: post
 title:  "Adding Multiple Categories in Posts"
 summary: "Learn how to add categories in posts"
-author: LL
+author: IronTUX
 date: '2021-02-28 1:35:23 +0530'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll
