@@ -1,8 +1,7 @@
-title: How I Automated This ! 
-subtitle: Retrouver ici une série d'article sur la façon dont j'ai automatisé certaine de mes tâches quotidiennes.
+title: devlopr
+subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
-
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -14,23 +13,23 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-#    - text: Gallery
-#      url: /gallery
-#    - text: Shop
-#      url : /shop
-#    - text: Contact
-#      url : /contact
+    - text: Gallery
+      url: /gallery
+    - text: Shop
+      url : /shop
+    - text: Contact
+      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: LIENHARD Laurent
-author_bio: Auto-didacte en PowerShell, co-fondateur du French Powershell & DevOps User Groupe :D
-author_email: "laurent@lienhard.fr"
-author_location: Alsace, France
-#author_website_url: "https://sujaykundu.com"
-#typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: John Doe
+author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_email: "mail@sujaykundu.com"
+author_location: India
+author_website_url: "https://sujaykundu.com"
+typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -71,16 +70,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: IronTUX
-github_username:  laurentLienhard
-facebook_username: laurent.lienhard.5
-linkedin_username: laurent-lienhard-61680528
-#behance_username: johndoe
-#instagram_username: johndoe
-#medium_username: johndoe
-#telegram_username: johndoe
-#dribbble_username: johndoe
-#flickr_username: johndoe
+twitter_username: johndoe
+github_username:  sujaykundu777
+facebook_username: johndoe
+linkedin_username: johndoe
+behance_username: johndoe
+instagram_username: johndoe
+medium_username: johndoe
+telegram_username: johndoe
+dribbble_username: johndoe
+flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
