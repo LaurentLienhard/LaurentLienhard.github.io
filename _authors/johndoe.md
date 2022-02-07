@@ -1,31 +1,31 @@
 ---
-name: LIENHARD Laurent
-username: IronTUX
-bio: "Administrateur Systèmes et Office 365."
-#site: http://johndoe.com
-avatar: IronTUX.png
-email: laurent@lienhard.fr
+name: John Doe
+username: johndoe
+bio: "Hi I a John, a Web Developer and Designer."
+site: http://johndoe.com
+avatar: johndoe.png
+email: mail@johndoe.com
 social:
     - title: "github"
-      url: "https://github.com/LaurentLienhard"
+      url: "https://github.com/johndoe"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/laurent-lienhard-61680528/"
+      url: "https://www.linkedin.com/in/johndoe"
     - title: "youtube"
-      url: "https://www.youtube.com/channel/UCNNWDp3MftAq2qB0qBEuKkw"
+      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
     - title: "facebook"
-      url: "https://www.facebook.com/laurent.lienhard.5"
+      url: "https://www.facebook.com/johndoe"
     - title: "twitter"
-      url: "https://twitter.com/IronTUX"
-#    - title: "behance"
-#      url: "https://behance.com/johndoe"
-#    - title: "instagram"
-#      url: "https://instagram.com/johndoe"
-#    - title: "medium"
-#      url: "https://medium.com/johndoe"
-#    - title: "telegram"
-#      url: "https://telegram.com/johndoe"
-#    - title: "dribbble"
-#      url: "https://dribbble.com/johndoe"
-#    - title: "flickr"
-#      url: "https://flickr.com/johndoe"
+      url: "https://www.twitter.com/johndoe"
+    - title: "behance"
+      url: "https://behance.com/johndoe"
+    - title: "instagram"
+      url: "https://instagram.com/johndoe"
+    - title: "medium"
+      url: "https://medium.com/johndoe"
+    - title: "telegram"
+      url: "https://telegram.com/johndoe"
+    - title: "dribbble"
+      url: "https://dribbble.com/johndoe"
+    - title: "flickr"
+      url: "https://flickr.com/johndoe"
 ---
