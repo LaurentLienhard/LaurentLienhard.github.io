@@ -1,7 +1,7 @@
 title: How I Automated This ! 
-subtitle: A Portfolio Jekyll Theme Built for Developers
-description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+subtitle: Comment j'automatise mes tâches quotidiennes d'administrateurs systèmes et pleins d'autre reucs ;-)
+# description: >- # this means to ignore newlines until "baseurl:"
+#  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
 url: "https://LaurentLienhard.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,10 +14,10 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
+#    - text: Gallery
+#      url: /gallery
+#    - text: Shop
+#      url : /shop
     - text: Contact
       url : /contact
 
@@ -26,7 +26,10 @@ urls:
 
 author_logo: profile.png
 author: LIENHARD Laurent
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_bio: Derrière cette acronyme HIAT (pour “How I Automated This !”) se cache …. moi :-) 
+J’ai débuté ma carrière comme technicien support. J’ai gravis petit à petit les echelons jusqu’à mon poste actuel d’Administrateur Systèmes
+De formation développeur, j’ai très vite découvert le Powershell et tout ce qui touche à l’automatisation.
+Aujourd’hui, dés que je le peux, j’essai d’automatiser au maximum toutes mes tâches quotidiennes d’administration.
 author_email: "laurent@lienhard.fr
 author_location: France
 author_website_url: "https://sujaykundu.com"
