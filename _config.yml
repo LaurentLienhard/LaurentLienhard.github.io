@@ -27,9 +27,6 @@ urls:
 author_logo: profile.png
 author: LIENHARD Laurent
 author_bio: Derrière cette acronyme HIAT (pour “How I Automated This !”) se cache …. moi :-) 
-J’ai débuté ma carrière comme technicien support. J’ai gravis petit à petit les echelons jusqu’à mon poste actuel d’Administrateur Systèmes
-De formation développeur, j’ai très vite découvert le Powershell et tout ce qui touche à l’automatisation.
-Aujourd’hui, dés que je le peux, j’essai d’automatiser au maximum toutes mes tâches quotidiennes d’administration.
 author_email: "laurent@lienhard.fr
 author_location: France
 author_website_url: "https://sujaykundu.com"
@@ -38,17 +35,11 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: Ophèa
               company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
+              company_url: https://www.ophea.fr/
+              designation: Administrateur Systèmes et Office 365
               description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
               visibility: true
 
 # Education
@@ -76,8 +67,8 @@ author_project_details:
 # social links
 twitter_username: IronTUX
 github_username:  LaurentLienhard
-facebook_username: johndoe
-linkedin_username: johndoe
+facebook_username: laurent.lienhard.5
+linkedin_username: laurent-lienhard-61680528
 # behance_username: johndoe
 # instagram_username: johndoe
 # medium_username: johndoe
