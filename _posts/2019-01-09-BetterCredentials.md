@@ -5,7 +5,7 @@ summary: "Le module BetterCredentials"
 author: laurent
 date: '2019-01-09 14:35:23 +0530'
 category: ['PowerShell', 'Niv100', 'Lightning', 'FrPSUG']
-thumbnail: /assets/img/header/CredentialManagerWithUser.png
+thumbnail: /assets/img/header/mot-de-passe.png
 keywords: PowerShell, Identifiant, Niv100, Lightning
 permalink: /blog/BetterCredentials/
 usemathjax: true
