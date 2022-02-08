@@ -66,4 +66,4 @@ Il ne reste plus qu'a faire une nouvelle réunion Teams en prenant garde de bien
 
 Pas de panique si vous voyez tous inversé, les personnes qui regardent voient bien tout a l'endroit :-)
 
-![Résultat](/assets/img/posts/20210215/RESULTAT.png "Résultat")
+![Résultat](/assets/img/posts/20210215/RESULTAT_OBS.png "Résultat")
