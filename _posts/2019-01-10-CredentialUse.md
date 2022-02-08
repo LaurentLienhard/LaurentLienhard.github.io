@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Credential : comment les utiliser ?"
+title: "Credential : comment les utiliser ?"
 summary: "Les différentes façons d'utiliser les credentials"
 author: laurent
 date: '2019-01-10 14:35:23 +0530'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Word : decoupage d'un fichier Word"
+title: "Word : decoupage d'un fichier Word"
 summary: "Découper un fichier et l'enregistrer en plusieurs documents"
 author: laurent
 date: '2018-10-17 14:35:23 +0530'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La validation des paramètres"
+title: "La validation des paramètres"
 summary: "La validation des paramètres dans une fonction Powershell"
 author: laurent
 date: '2019-12-16 14:35:23 +0530'

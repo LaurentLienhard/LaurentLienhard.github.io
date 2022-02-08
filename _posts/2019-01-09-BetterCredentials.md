@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Credential : comment mieux les utiliser ?"
+title: "Credential : comment mieux les utiliser ?"
 summary: "Le module BetterCredentials"
 author: laurent
 date: '2019-01-09 14:35:23 +0530'

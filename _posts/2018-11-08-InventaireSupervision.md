@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Etat de la synchronisation entre l'inventaire et la supervision"
+title: "Etat de la synchronisation entre l'inventaire et la supervision"
 summary: "Avoir un état de la synchronisation entre son inventaire et sa supervision"
 author: laurent
 date: '2018-11-08 14:35:23 +0530'

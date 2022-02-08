@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La portée des variables"
+title: "La portée des variables"
 summary: "Les différentes portées pour les variables utilisées en Powershell"
 author: laurent
 date: '2019-04-16 14:35:23 +0530'
