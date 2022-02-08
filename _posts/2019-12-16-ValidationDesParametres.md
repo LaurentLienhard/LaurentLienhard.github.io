@@ -4,7 +4,7 @@ title:  "La validation des paramètres"
 summary: "La validation des paramètres dans une fonction Powershell"
 author: laurent
 date: '2019-12-16 14:35:23 +0530'
-category: ['PowerShell', 'Niv100', 'Lightning', 'FrPSUG']
+category: ['PowerShell', 'Niv100']
 thumbnail: /assets/img/header/parameter_validation.png
 keywords: PowerShell, Regex, Parameter, Niv100, Advanced Function
 permalink: /blog/ValidationDesParametres/
