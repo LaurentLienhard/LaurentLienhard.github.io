@@ -6,7 +6,7 @@ author: IronTUX
 date: '2018-10-217 14:35:23 +0530'
 category: Powershell
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+keywords: PowerShell, Regex, Office, Niv200
 permalink: /blog/Split-Docx2Pdf/
 usemathjax: true
 ---
