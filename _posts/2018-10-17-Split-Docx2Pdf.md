@@ -11,7 +11,7 @@ permalink: /blog/Split-Docx2Pdf/
 usemathjax: true
 ---
 
-# Découper un fichier Word en plusieurs PDF…
+## Découper un fichier Word en plusieurs PDF…
 
 ## Demande Initiale
 
