@@ -4,7 +4,7 @@ title:  "Word : decoupage d'un fichier Word"
 summary: "Découper un fichier et l'enregistrer en plusieurs documents"
 author: IronTUX
 date: '2018-10-217 14:35:23 +0530'
-category: Powershell
+category: ['PowerShell', 'Niv200']
 thumbnail: /assets/img/posts/code.jpg
 keywords: PowerShell, Regex, Office, Niv200
 permalink: /blog/Split-Docx2Pdf/
