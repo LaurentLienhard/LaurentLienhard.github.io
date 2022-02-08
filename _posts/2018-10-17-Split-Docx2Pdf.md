@@ -3,7 +3,7 @@ layout: post
 title:  "Word : decoupage d'un fichier Word"
 summary: "Découper un fichier et l'enregistrer en plusieurs documents"
 author: IronTUX
-date: '2018-10-217 14:35:23 +0530'
+date: '2019-05-22 14:35:23 +0530'
 category: ['PowerShell', 'Niv200']
 thumbnail: /assets/img/posts/code.jpg
 keywords: PowerShell, Regex, Office, Niv200
