@@ -57,13 +57,14 @@ New-ADGroup @HashArguments
 ```
 
 > XX correspond au nom de l'entité pour laquelle j'ai mis en place cette solution
-
 > Pour information cette façon d'écrire les arguments se nomme le [Splatting](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_splatting?view=powershell-6 "Lien vers la doc")
 
 Dans mon cas, je créé autant de groupe que de licence à affecter
+
 ![Groupe AD](/assets/img/posts/20200201/Liste_Groupe_AD.png "Groupe AD")
 
 Une fois la synchronisation forcé a partir de mon serveur Azure AD Connect
+
 ![Synchro AAD](/assets/img/posts/20200201/Synchro-AAD.png "Synchro AAD")
 
 je peux vérifier sur AzureAD que mes groupes sont bien présent
