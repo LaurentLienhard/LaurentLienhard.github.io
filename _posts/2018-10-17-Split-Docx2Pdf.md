@@ -5,7 +5,7 @@ summary: "Découper un fichier et l'enregistrer en plusieurs documents"
 author: IronTUX
 date: '2019-05-22 14:35:23 +0530'
 category: ['PowerShell', 'Niv200']
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/header/office-365.jpg
 keywords: PowerShell, Regex, Office, Niv200
 permalink: /blog/Split-Docx2Pdf/
 usemathjax: true
