@@ -11,7 +11,7 @@ permalink: /blog/InventaireSupervision/
 usemathjax: true
 ---
 
-# Avoir un état de la synchronisation entre son inventaire et sa supervision
+## Avoir un état de la synchronisation entre son inventaire et sa supervision
 
 ## Besoin Initial
 
