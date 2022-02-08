@@ -5,7 +5,7 @@ summary: "Les différentes portées pour les variables utilisées en Powershell"
 author: laurent
 date: '2019-04-16 14:35:23 +0530'
 category: ['PowerShell', 'Niv200', 'Lightning', 'FrPSUG']
-thumbnail: /assets/img/header/mot-de-passe.png
+thumbnail: /assets/img/header/vscode.png
 keywords: PowerShell, Scope, variable, Niv200, Lightning
 permalink: /blog/ScopeVariable/
 usemathjax: true
