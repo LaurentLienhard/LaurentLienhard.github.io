@@ -3,7 +3,7 @@ name: LIENHARD Laurent
 username: laurent
 #bio: "Hi I a John, a Web Developer and Designer."
 #site: http://johndoe.com
-avatar: IronTUX.png
+avatar: laurent.png
 email: laurent@lienhard.fr
 social:
     - title: "github"
