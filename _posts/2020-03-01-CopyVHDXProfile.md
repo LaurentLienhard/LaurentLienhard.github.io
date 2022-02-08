@@ -192,11 +192,15 @@ les étapes :
 4. Suppression de l'ancien fichier si demandé
 
 Au final l'utilisation de cette fonction se fait de la façon suivante :
-1. Par site
+
+* Par site
+
 ```powershell
 Copy-VHDXProfile -Site "Londres" -OldPath "\\srv-profil\profile1\" -NewPath "\\srv-profil\profile2" -verbose
 ```
-2. Par Utilisateur
+
+* Par Utilisateur
+
 ```powershell
 PS> Copy-VHDXProfile -SamAccountName "test.user" -OldPath "\\srv-profil\profile1\" -NewPath "\\srv-profil\profile2" -verbose
 ```
