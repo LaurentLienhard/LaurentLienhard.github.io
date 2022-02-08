@@ -11,7 +11,7 @@ permalink: /blog/MontreMoiTonProfile/
 usemathjax: true
 ---
 
-_Information_
+## Information
 
 Cette article a été rédigé pour une présentation du [French Powershell UserGroup](https://frpsug.com).
 
@@ -177,4 +177,3 @@ Foreach ($private:M in $AutoLoad.Modules)
 Il s'agit de module que j'utilise pour la compilation de mes builds lorsque je code.
 
 Pour plus d'exemple sur les profiles vous pouvez faire une recherche google.
-
