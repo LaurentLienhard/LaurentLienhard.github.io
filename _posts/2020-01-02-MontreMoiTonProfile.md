@@ -145,12 +145,6 @@ Write-Host '+---------------------------------------------------+'
 
 Cette fonction permet d'afficher dans le titre de la fenêtre quand je lance la console en administrateur
 
-![Administrator Mode](/assets/images/post/2020-01-02-Montre_moi_ton_profile/Console_Powershell_Admin.png "Administrator Mode")
-
-ou en utilisateur normal
-
-![Normal Mode](/assets/images/post/2020-01-02-Montre_moi_ton_profile/Console_Powershell_NormalMode.png "Normal Mode")
-
 j'ai également une fonction d'installation de module
 
 ```powershell

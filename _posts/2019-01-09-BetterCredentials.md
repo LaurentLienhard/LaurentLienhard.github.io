@@ -76,7 +76,7 @@ A la lecture de l'aide une phrase m'a beaucoup intéressé
 
 Hum, Hum intéressant.
 
-Plutôt que de stocker les informations (UserName et Password) dans un fichier comme j'en ai parlé sur le post [Credential : comment les utiliser ?](https://laurentlienhard.github.io/powershell/credential/CredentialUse/) ce module est capable de les stocker dans le Coffre-Fort Windows.
+Plutôt que de stocker les informations (UserName et Password) dans un fichier comme j'en ai parlé sur le post [Credential : comment les utiliser ?](https://www.howiautomatedthis.com/blog/CredentialUse/#/) ce module est capable de les stocker dans le Coffre-Fort Windows.
 
 Voyons voir un peu cette fonction plus précisément.
 
