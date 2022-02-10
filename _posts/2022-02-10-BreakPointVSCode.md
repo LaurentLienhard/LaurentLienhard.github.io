@@ -64,3 +64,29 @@ Après avoir saisie la condition appuyer sur ``Enter``` pour valider.
 Ensuite il suffit de lancer le mode debug et de patienter jusqu'à ce que le break point soit atteint. Une fois atteint, l'execution du code se met en pause et si on vérifie la valeur de ```$x.name``` nous verrons que c'est bien ```Stop mon BreakPoint.docx```.	
 
 ![Conditional Breakpoint](/assets/img/posts/20220210/AjoutConditionalBP2.png "Conditional Breakpoint")
+
+### 2 - Inline Breakpoint
+
+Ce type de breakpoint est utilisé quand vous utilisez l'écriture dite inline c'est a dire qu'au lieu de bien indenté votre code, vous l'écrivez sur une seule ligne.
+
+Dans mon code je peux par exemple écrire ca pour afficher le nom de chacun des documents contenus dans mon dossier
+
+```powershell
+Get-ChildItem -Path $pathToUse | ForEach-Object {Write-output $_.Name}
+```
+
+Pour ajouter un Break Point sur la commande ```Write-Ouput``` je vais utiliser les Inline Breakpoint
+
+Pour cela il faut se positionner sur le début de la commande ```Write-Ouput``` et ajouter le Inline Breakpoint en passant par le menu ``Run```
+
+![Inline Breakpoint](/assets/img/posts/20220210/AjoutInlineBP.png "Inline Breakpoint")
+
+Le Inline Breakpoint se matérialise par un point rouge apparraissant a l'endroit de la ligne ou on l'a défini.
+
+![Inline Breakpoint](/assets/img/posts/20220210/AjoutInlineBP1.png "Inline Breakpoint")
+
+On lance le mode debug, qui va stopper en arrivant sur le break point
+
+![Inline Breakpoint](/assets/img/posts/20220210/AjoutInlineBP2.png "Inline Breakpoint")
+
+### 3 - Function Breakpoint
