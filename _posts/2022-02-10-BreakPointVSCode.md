@@ -67,7 +67,7 @@ Ensuite il suffit de lancer le mode debug et de patienter jusqu'à ce que le bre
 
 ### 2 - Inline Breakpoint
 
-Ce type de breakpoint est utilisé quand vous utilisez l'écriture dite inline c'est a dire qu'au lieu de bien indenté votre code, vous l'écrivez sur une seule ligne.
+Ce type de breakpoint est utilisé quand vous utilisez l'écriture dite inline c'est a dire qu'au lieu de bien indenter votre code, vous l'écrivez sur une seule ligne.
 
 Dans mon code je peux par exemple écrire ca pour afficher le nom de chacun des documents contenus dans mon dossier
 
@@ -90,3 +90,22 @@ On lance le mode debug, qui va stopper en arrivant sur le break point
 ![Inline Breakpoint](/assets/img/posts/20220210/AjoutInlineBP2.png "Inline Breakpoint")
 
 ### 3 - Function Breakpoint
+
+Ce type de breakpoint permettra d'arrêter l'execution du code à l'appel d'une fonction.
+
+Dans mon code par exemple je peux définir un Function Breakpoint sur l'appelle de la fonction ```Move-Item``` par exemple.
+
+Pour ce faire passer par me menu ```Run``` puis ```New Breakpoint``` et enfin ```Function Breakpoint```
+
+![Function Breakpoint](/assets/img/posts/20220210/AjoutFunctionBP.png "Function Breakpoint")
+
+La pallette ```Breakpoint``` apparait et permet de définir le nom de la fonction sur laquelle faire le break point. Saisir le nom de la fonction est faire ```Enter```
+
+![Function Breakpoint](/assets/img/posts/20220210/AjoutFunctionBP1.png "Function Breakpoint")
+
+Lancer ensuite le mode debug qui va automatiquement se mettre en pause sur la fonction ```Move-Item```
+
+![Function Breakpoint](/assets/img/posts/20220210/AjoutFunctionBP2.png "Function Breakpoint")
+
+### 4 - Logpoint
+
