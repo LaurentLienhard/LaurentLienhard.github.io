@@ -108,3 +108,9 @@ Lancer ensuite le mode debug qui va automatiquement se mettre en pause sur la fo
 ![Function Breakpoint](/assets/img/posts/20220210/AjoutFunctionBP2.png "Function Breakpoint")
 
 ### 4 - Logpoint
+
+Les logpoint sont une autre variante utile des points d'arrêt. Au lieu de s'introduire dans votre débogueur, ils enregistrent des messages sur votre console et servent d'instructions de trace temporaires
+
+Les logpoint peuvent être un excellent dispositif d'injection lorsque vous déboguez un serveur de production qui ne peut pas être arrêté ou mis en pause
+
+Malheureusement, et sauf erreur de ma part, ils ne sont pas supportés en Powershell
