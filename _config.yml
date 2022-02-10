@@ -3,7 +3,7 @@ subtitle: Une série d'article sur l'automatisation de tâches et aussi plein d'
 description: >- # this means to ignore newlines until "baseurl:"
   Une série d'article sur l'automatisation de tâches et aussi plein d'autre truc.
 
-url: "https://www.howiautomatedthis.com" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://laurentlienhard.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
