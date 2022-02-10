@@ -61,7 +61,7 @@ La condition sera si ```$x.name``` est égal à ```Stop mon BreakPoint.docx```.
 
 Après avoir saisie la condition appuyer sur ``Enter``` pour valider.
 
-Ensuite il suffit de lancer le mode debug et de patienter jusqu'à ce que le break point soit atteint. Une fois atteint, l'execution du code se met en pause et si on vérifie la valeur de ```$x.name``` nous verrons que c'est bien ```Stop mon BreakPoint.docx```.	
+Ensuite il suffit de lancer le mode debug et de patienter jusqu'à ce que le break point soit atteint. Une fois atteint, l'execution du code se met en pause et si on vérifie la valeur de ```$x.name``` nous verrons que c'est bien ```Stop mon BreakPoint.docx```.
 
 ![Conditional Breakpoint](/assets/img/posts/20220210/AjoutConditionalBP2.png "Conditional Breakpoint")
 
@@ -108,4 +108,3 @@ Lancer ensuite le mode debug qui va automatiquement se mettre en pause sur la fo
 ![Function Breakpoint](/assets/img/posts/20220210/AjoutFunctionBP2.png "Function Breakpoint")
 
 ### 4 - Logpoint
-
